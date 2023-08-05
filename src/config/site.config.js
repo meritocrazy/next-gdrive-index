@@ -3,10 +3,10 @@ import { BsDiscord, BsGithub, BsPaypal } from "react-icons/bs";
 const config = {
   /* Site MetaData */
   // The name of the site
-  siteName: "mbahArip Stash",
+  siteName: "PiracyID",
   // The description of the site
   // Used in meta tags and document head
-  siteDescription: "Personal Stash of mbahArip, a place to store my files.",
+  siteDescription: "Personal Stash of PiracyID, a place to store my files.",
   // Fav icon of the site
   // Also used as the logo of the site on the navbar
   siteIcon: "/favicon.svg",
@@ -27,13 +27,13 @@ const config = {
     {
       icon: BsGithub,
       name: "GitHub",
-      href: "https://www.github.com/mbaharip",
+      href: "https://www.github.com/xxxxxxxx",
       newTab: true,
     },
     {
       icon: BsPaypal,
       name: "Donate",
-      href: "https://www.paypal.me/mbaharip",
+      href: "https://paypal.me/Molestershop",
       newTab: true,
     },
     {
@@ -45,7 +45,7 @@ const config = {
   // Footer text
   // It will be rendered as
   // {year} {footerText} - Powered by next-gdrive-index ❤️
-  footerText: "mbahArip Stash",
+  footerText: "PiracyID",
 
   files: {
     // Show file icon from Google Drive before the file name
