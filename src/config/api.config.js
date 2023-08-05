@@ -6,9 +6,9 @@ module.exports = {
   // Using encryption key
   // https://drive.mbaharip.com/gudora-setup
   client_secret:
-    "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",
+    "",
   refresh_token:
-    "1//0gP40dhYzL2fRCgYIARAAGBASNwF-L9IrfO-H8V7p7xTPHRQLWfMS66UVG_MBQoxm8FgR9KG9kbXFctJg3lvgb3UDzMUS1z0y69I",
+    "",
   files: {
     // How many files to show per page
     itemsPerPage: 25,
